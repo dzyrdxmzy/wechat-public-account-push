@@ -21,15 +21,15 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oWR05vjW1OTekNBsuGbD0XJXvfek',
+      id: 'oWR05vrqZtGp8vVGZcLT61XNC0i0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'JukZGEhp_XajqquLb0xomgQxaiGa5z8Hm6xQtz08eNU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '07-20',
+      horoscopeDate: '12-29',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '小领导', year: '2004', date: '07-20',
+          type: '生日', name: 'you', year: '2001', date: '12-29',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -44,15 +44,15 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oWR05vg-myb7dpja8Gizz3syQSgU',
+      id: 'oWR05vjW1OTekNBsuGbD0XJXvfek',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'JukZGEhp_XajqquLb0xomgQxaiGa5z8Hm6xQtz08eNU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '07-20',
+      horoscopeDate: '12-29',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '小领导', year: '2004', date: '07-20',
+          type: '生日', name: 'you', year: '2001', date: '12-29',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
