@@ -12,9 +12,6 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '2a6aa74a415eda7e6b80bb3b1588ba57',
-  
-  PROVINCE: '潍坊',
-  CITY: '潍坊',
 
   USERS: [
     {
@@ -23,7 +20,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oWR05vuzi_xJh5tzIzbCUGbLCli',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'AKSBz9R6WdvxuilyOwbifRjd5-vBUjC-Q4rxdY4QQ0c',
+      useTemplateId: '6V1NuG2HtzTEXIhYV8gknLc_TwbA3z17eFBcgrtKYkg',
+      PROVINCE: '潍坊',
+      CITY: '潍坊',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
@@ -46,7 +45,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oWR05vjW1OTekNBsuGbD0XJXvfek',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'AKSBz9R6WdvxuilyOwbifRjd5-vBUjC-Q4rxdY4QQ0c',
+      useTemplateId: '6V1NuG2HtzTEXIhYV8gknLc_TwbA3z17eFBcgrtKYkg',
+      PROVINCE: '潍坊',
+      CITY: '潍坊',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
