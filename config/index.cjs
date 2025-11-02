@@ -12,34 +12,11 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '2a6aa74a415eda7e6b80bb3b1588ba57',
-
+  
+  PROVINCE: '山东',
+  CITY: '潍坊',
 
   USERS: [
-    {
-      // 想要发送的人的名字
-      name: '泽',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oWR05vgpRA_oS84ZdUze8O8RjU_',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'AKSBz9R6WdvxuilyOwbifRjd5-vBUjC-Q4rxdY4QQ0c',
-      PROVINCE: '香港',
-      CITY: '香港',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-29',
-      festivals: [
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: 'you', year: '2004', date: '8-7',
-        },
-      ],
-      // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2025-08-27' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
-      ],
-    },
     {
       // 想要发送的人的名字
       name: '林深',
@@ -47,8 +24,6 @@ const USER_CONFIG = {
       id: 'oWR05vuzi_xJh5tzIzbCUGbLCli',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'AKSBz9R6WdvxuilyOwbifRjd5-vBUjC-Q4rxdY4QQ0c',
-      PROVINCE: '山东',
-      CITY: '潍坊',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
