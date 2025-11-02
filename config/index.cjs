@@ -47,8 +47,6 @@ const USER_CONFIG = {
       id: 'oWR05vjW1OTekNBsuGbD0XJXvfek',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'AKSBz9R6WdvxuilyOwbifRjd5-vBUjC-Q4rxdY4QQ0c',
-      PROVINCE: '山东',
-      CITY: '潍坊',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
