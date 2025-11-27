@@ -19,24 +19,24 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '林深',
+      name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oWR05vuzi_xJh5tzIzbCUGbLCliM',
+      id: 'oWR05vjsIUvEb3mvYCNRdexBV3C',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'LOnPIJ3KRLTqhpx4991ZiTrfDkY1gjngVKwxAmrCf00',
+      useTemplateId: 'IbIef9_VmwJ-2yJ33afe8GWEI5nv8wBm7YC-kgxcYWg',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: 'you', year: '2007', date: '11-18',
+          type: '生日', name: '老大', year: '2000', date: '05-09',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2025-09-27' },
+        { keyword: 'love_day', date: '2025-11-26' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
@@ -47,20 +47,20 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oWR05vjW1OTekNBsuGbD0XJXvfek',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'LOnPIJ3KRLTqhpx4991ZiTrfDkY1gjngVKwxAmrCf00',
+      useTemplateId: 'IbIef9_VmwJ-2yJ33afe8GWEI5nv8wBm7YC-kgxcYWg',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: 'you', year: '2007', date: '11-18',
+          type: '生日', name: '老大', year: '2000', date: '05-09',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2025-09-27' },
+        { keyword: 'love_day', date: '2025-11-26' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
